@@ -45,9 +45,9 @@ Inside **code** you will find the **Nextrout** folder, which contains:
 Inside **dmk_utilities** there are all the files related to the DMK solver. These are needed to execute **NextRout**. In **nextrout_core**, you will find the main python scripts and subfolders where the entire procedure takes place. In case of errors during installation, please visit [_DMK solver_](https://gitlab.com/enrico_facca/dmk_solver), section **Troubleshooting**. 
 
 
-## How to perform a simulation?
+## And how to perform a simulation?
 
-You can simply check our _Tutorial_ [_here_] (https://github.com/Danielaleite/opt-urban-nextrout/blob/master/code/opt_urban_nextrout_tutorial.ipynb)
+You can simply check our _Tutorial_ at https://github.com/Danielaleite/opt-urban-nextrout/blob/master/code/opt_urban_nextrout_tutorial.ipynb
 
 ## Contributing
 
