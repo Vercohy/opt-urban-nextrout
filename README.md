@@ -49,7 +49,7 @@ Inside **dmk_utilities** there are all the files related to the DMK solver. Thes
 
 ## How to perform a simulation?
 
-You can simply check our [_tutorial_] (https://github.com/Danielaleite/opt-urban-nextrout/code/opt_urban_nextrout_tutorial.ipynb)
+You can simply check our [_tutorial_] (https://github.com/Danielaleite/opt-urban-nextrout/blob/master/code/opt_urban_nextrout_tutorial.ipynb)
 
 ## Contributing
 
