@@ -1,7 +1,5 @@
 # Revealing the similarity between urban transportation networks and optimal transport-based infrastructures
 
-By Daniela Leite and Caterina De Bacco
-
 **What is Opt-urban Nextrout about?** - This project uses a method inspired by optimal transport theory to generate networks that show similarity with the structure of real public transportation networks. By taking in input a set of latitude-longitude coordinates, our algorithm outputs a network structure that represents the optimal topology connecting such points. 
 
 Our inputs correspond to real origin-destination station coordinates across multiple cities. We  then measure similarities between the existing structures and the outputs of our algorithm by computing different metrics. More details can be found at: 
@@ -49,7 +47,7 @@ Inside **dmk_utilities** there are all the files related to the DMK solver. Thes
 
 ## How to perform a simulation?
 
-You can simply check our [_tutorial_] (https://github.com/Danielaleite/opt-urban-nextrout/blob/master/code/opt_urban_nextrout_tutorial.ipynb)
+You can simply check our _Tutorial_ inside the **./code/**
 
 ## Contributing
 
